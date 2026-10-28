@@ -20,7 +20,6 @@
 | [rsj-centralized-control](https://github.com/RyuSeoJin/rsj-centralized-control) | 🌐 | 여러 저장소가 함께 쓰는 **중앙 규칙**. 규칙은 여기서만 고치고, 각 저장소는 `core/`를 받아 씀 | Python | — |
 | [Ryu-Seo-Jin-Blog](https://github.com/RyuSeoJin/Ryu-Seo-Jin-Blog) | 🌐 | 레벨 디자이너 공부 기록 블로그 | TypeScript | [ryuseojin.com](https://ryuseojin.com) |
 | [pixelart-design](https://github.com/RyuSeoJin/pixelart-design) | 🌐 | 등신대 픽셀 아트 캐릭터를 같은 규칙으로 만들고, 한 Spine 뼈대에 스킨만 갈아 끼우는 작업 저장소 (`core/` 사용) | HTML · Spine | — |
-| [UE_LevelDesign_Tool](https://github.com/RyuSeoJin/UE_LevelDesign_Tool) | 🔒 | 레벨 디자인용 언리얼 위젯 블루프린트 툴 | Unreal (BP) | — |
 | [Graphic-AI-Devlog](https://github.com/RyuSeoJin/Graphic-AI-Devlog) | 🔒 | AI 기반 그래픽 제작 과정 · 캐릭터 디자인 · Blender 원본 관리 *(GitHub에는 아직 올리지 않음 — 로컬에만 있음)* | Blender | — |
 
 ## 🎮 게임 프로젝트
@@ -36,9 +35,7 @@
 
 | 레포 | 공개 | 무엇 |
 |---|:---:|---|
-| [Leveldesign_TheLastofUsPart1](https://github.com/RyuSeoJin/Leveldesign_TheLastofUsPart1) | 🔒 | 라스트 오브 어스 파트1 프롤로그를 언리얼로 재현 |
-| [Proj_LostArk](https://github.com/RyuSeoJin/Proj_LostArk) | 🔒 | 로스트아크 모작 |
-| [Lakaya_LevelDesign](https://github.com/RyuSeoJin/Lakaya_LevelDesign) | 🔒 | 레벨 디자인 복제용 언리얼 마스터 파일 |
+| [UE_LevelDesign](https://github.com/RyuSeoJin/UE_LevelDesign) | 🔒 | 레벨 디자인 · 모작을 모은 UE 5.7 프로젝트 하나 — **라스트 오브 어스 파트1 프롤로그** 재현 · **로스트아크** 모작(탑다운) · **라카야** 레벨 복제 · **레벨 디자인용 위젯 툴** |
 
 ## 📚 공부 · 포트폴리오
 

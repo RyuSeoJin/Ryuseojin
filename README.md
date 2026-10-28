@@ -1,30 +1,54 @@
-<!-- ───────── 헤더 배너 ───────── --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:6366f1&height=220&section=header&text=Ryu%20SeoJin&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=QA%20Engineer%20%C2%B7%20Game%20Developer&descSize=20&descAlignY=56" width="100%" /> </p> <!-- ───────── 타이핑 문구 ───────── --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=620&lines=Breaking+things+so+users+don't+have+to;Designing+test+cases+for+LLM+services;Building+games+with+Unreal+Engine" /> </p> <p align="center"> <a href="https://ryuseojin.github.io/QA-VisualNovel-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" /></a> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <br/>
-🙋 About Me
-🔍 QA Engineer — 카카오 T 퀵·배송 O2O 서비스 QA (2024.09 – 2026.08)
-🤖 LLM 기반 서비스의 비결정적 응답을 판정 가능한 TC로 만드는 방법을 연구하고 있습니다
-🎮 Unreal Engine으로 게임을 만듭니다 — Blueprint 중심, 서브시스템은 C++
-🛠️ 손으로 만드는 산출물을 줄이는 도구를 좋아합니다 (TC 자동 생성, Swagger 요청 빌더, Apps Script 자동화)
-<br/>
-🧰 Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:6366f1&height=160&section=header&text=Ryu%20SeoJin&fontSize=48&fontColor=ffffff&fontAlignY=40" width="100%" />
+</p>
 
-QA & Testing
+<p align="center">
+  <a href="https://ryuseojin.com"><img src="https://img.shields.io/badge/Blog-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://ryuseojin.github.io/QA-VisualNovel-Portfolio/"><img src="https://img.shields.io/badge/QA_Portfolio-1E1B4B?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
 
-<p> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> </p>
+# 📂 레포지토리 목록
 
-Game Dev
+> 🌐 공개 · 🔒 비공개
 
-<p> <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Blueprint-1E1B4B?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> </p>
+## 🛠️ 내가 쓰려고 만든 프로젝트
 
-Language & Tools
+작업을 편하게 하려고 만든 도구 · 규칙 · 기록 저장소입니다.
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" /> </p> <br/>
-📌 Featured Project
-<a href="https://github.com/RyuSeoJin/QA-VisualNovel-Portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyuSeoJin&repo=QA-VisualNovel-Portfolio&theme=tokyonight&hide_border=true" /> </a>
+| 레포 | 공개 | 무엇 | 기술 | 바로가기 |
+|---|:---:|---|---|---|
+| [rsj-centralized-control](https://github.com/RyuSeoJin/rsj-centralized-control) | 🌐 | 여러 저장소가 함께 쓰는 **중앙 규칙**. 규칙은 여기서만 고치고, 각 저장소는 `core/`를 받아 씀 | Python | — |
+| [Ryu-Seo-Jin-Blog](https://github.com/RyuSeoJin/Ryu-Seo-Jin-Blog) | 🌐 | 레벨 디자이너 공부 기록 블로그 | TypeScript | [ryuseojin.com](https://ryuseojin.com) |
+| [pixelart-design](https://github.com/RyuSeoJin/pixelart-design) | 🌐 | 등신대 픽셀 아트 캐릭터를 같은 규칙으로 만들고, 한 Spine 뼈대에 스킨만 갈아 끼우는 작업 저장소 (`core/` 사용) | HTML · Spine | — |
+| [UE_LevelDesign_Tool](https://github.com/RyuSeoJin/UE_LevelDesign_Tool) | 🔒 | 레벨 디자인용 언리얼 위젯 블루프린트 툴 | Unreal (BP) | — |
+| [RecordTales_AI](https://github.com/RyuSeoJin/RecordTales_AI) | 🔒 | RecordTales 제작 과정의 AI 작업 기록 (wiki · roadmap · handoff-spec) | HTML | — |
+| [Graphic-AI-Devlog](https://github.com/RyuSeoJin/Graphic-AI-Devlog) | 🔒 | AI 기반 그래픽 제작 과정 · 캐릭터 디자인 · Blender 원본 관리 *(아직 비어 있음)* | Blender | — |
 
-미연시 AI 서비스를 역분석해 공통 기능 골격을 세우고, 검증 대상(SUT)을 직접 만들어 TC 설계 → 자동화 → 결함 주입으로 탐지력까지 확인한 QA 포트폴리오
+## 🎮 게임 프로젝트
 
-📄 렌더링된 문서 보기
+### 직접 기획 · 개발
 
-<br/>
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyuSeoJin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuSeoJin&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=RyuSeoJin&theme=tokyonight&hide_border=true" /> </p> <!-- ───────── 푸터 배너 ───────── --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e1b4b&height=120&section=footer" width="100%" /> </p>
+| 레포 | 공개 | 무엇 | 단계 |
+|---|:---:|---|---|
+| [RecordTales](https://github.com/RyuSeoJin/RecordTales) | 🔒 | Project: RecordTales — 언리얼 엔진 프로젝트 | 개발 (UE · C#) |
+| [hearsay-hotel](https://github.com/RyuSeoJin/hearsay-hotel) | 🔒 | hearsay-hotel 게임 기획서 | GDD |
+| [withyourmemory](https://github.com/RyuSeoJin/withyourmemory) | 🔒 | 너와의 기억 | 시놉시스 |
+| [MeehoGames-Devlog](https://github.com/RyuSeoJin/MeehoGames-Devlog) | 🔒 | 여러 게임 아이디어 모음집 (`core/` 사용) | 아이디어 |
+
+### 레벨 디자인 · 모작
+
+| 레포 | 공개 | 무엇 |
+|---|:---:|---|
+| [Leveldesign_TheLastofUsPart1](https://github.com/RyuSeoJin/Leveldesign_TheLastofUsPart1) | 🔒 | 라스트 오브 어스 파트1 프롤로그를 언리얼로 재현 |
+| [Proj_LostArk](https://github.com/RyuSeoJin/Proj_LostArk) | 🔒 | 로스트아크 모작 |
+| [Lakaya_LevelDesign](https://github.com/RyuSeoJin/Lakaya_LevelDesign) | 🔒 | 레벨 디자인 복제용 언리얼 마스터 파일 |
+
+## 📚 공부 · 포트폴리오
+
+| 레포 | 공개 | 무엇 | 바로가기 |
+|---|:---:|---|---|
+| [UE_Development](https://github.com/RyuSeoJin/UE_Development) | 🔒 | 언리얼 엔진 개발 공부 | — |
+| [UnrealEngineArchive](https://github.com/RyuSeoJin/UnrealEngineArchive) | 🔒 | 언리얼 엔진 기초 공부 HTML | [Pages](https://ryuseojin.github.io/UnrealEngineArchive/) |
+| [StudyUnrealMCP](https://github.com/RyuSeoJin/StudyUnrealMCP) | 🔒 | Unreal MCP 공부 | — |
+| [UE_CK2022_2](https://github.com/RyuSeoJin/UE_CK2022_2) | 🔒 | 2022-2학기 청강문화산업대 게임기획과 비주얼 스크립팅 | — |
+| [QA-VisualNovel-Portfolio](https://github.com/RyuSeoJin/QA-VisualNovel-Portfolio) | 🌐 | 미연시 AI 서비스 QA 포트폴리오 | [Pages](https://ryuseojin.github.io/QA-VisualNovel-Portfolio/) |
